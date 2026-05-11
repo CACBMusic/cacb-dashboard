@@ -45,7 +45,7 @@ export default function Sidebar() {
         </h2>
 
         <p className="mt-1 text-sm text-zinc-500">
-          Dashboard
+          Dashboards
         </p>
       </div>
 
